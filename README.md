@@ -2,6 +2,6 @@
 
 Command for running Fastapi app:
 ```
-uvicorn app-name: api
+uvicorn app-name: fastapi-name
 i.e uvicorn api:app
 ```
